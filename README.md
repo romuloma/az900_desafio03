@@ -78,8 +78,6 @@ Você pode configurar backups, alta disponibilidade, replicação geográfica e 
 
 Após validação das configurações, clique em **Criar**. A implantação pode levar até **6 horas** em alguns casos.
 
-📸 ![Implantação em andamento](images/07-implantacao.png)
-
 ---
 
 ### 8. Conectar-se à Instância
